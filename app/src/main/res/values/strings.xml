@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Reversed Word</string>
+
+    <!-- Strings related to main -->
+    <string name="prompt_word">Word Text</string>
+    <string name="action_submit">Submit</string>
+    <string name="action_copy">Copy to Clipboard</string>
+    <string name="title_desciption">Enter below the word to be reversed</string>
+    <string name="result">Result</string>
+</resources>
